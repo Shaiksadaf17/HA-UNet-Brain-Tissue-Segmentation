@@ -117,20 +117,7 @@ Segmentation Classes
 
 ---
 
-## 📁 Repository Structure
 
-```
-HA-UNet-Brain-Tissue-Segmentation/
-│
-├── notebooks/
-├── report/
-├── logs/
-├── images/
-├── results/
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
 
 ---
 
